@@ -28,4 +28,7 @@ int _puts(char *str);
 /*converter*/
 char *convert(unsigned long int num, int base, int lowercase);
 
+/* get_flag */
+int get_flag(char s, flags_t *f);
+
 #endif
