@@ -1,4 +1,4 @@
-# First Collaboration
+## First Collaboration
 
 printf project
 
@@ -13,4 +13,3 @@ printf project
 * va_end (man 3 va_end)
 * va_copy (man 3 va_copy)
 * va_arg (man 3 va_arg)
-
