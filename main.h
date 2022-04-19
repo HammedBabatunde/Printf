@@ -34,4 +34,7 @@ int (*get_print(char s))(va_list, flags_t *);
 /* get_flag */
 int get_flag(char s, flags_t *f);
 
+/* print_address */
+int print_address(va_list l, flags_t *f);
+
 #endif
