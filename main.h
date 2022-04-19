@@ -30,6 +30,12 @@ typedef struct printHandler
 	int (*f)(va_list ap, flags_t *f);
 } ph;
 
+/* print_nums */
+int print_int(va_list l, flags_t *f);
+void print_number(int n);
+int print_unsigned(va_list l, flags_t *f);
+int count_digit(int i);
+
 /* _printf */
 int _printf(const char *format, ...);
 
