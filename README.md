@@ -1,4 +1,4 @@
-# ## First Collaboration
+# First Collaboration
 
 printf project
 
